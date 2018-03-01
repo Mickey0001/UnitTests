@@ -1,0 +1,19 @@
+{
+  "name": "unittest",
+  "version": "1.0.0",
+  "description": "Learn Unit Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mickey0001/UnitTests.git"
+  },
+  "author": "Mirza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mickey0001/UnitTests/issues"
+  },
+  "homepage": "https://github.com/Mickey0001/UnitTests#readme"
+}
