@@ -4,7 +4,7 @@
   "description": "Learn Unit Testing",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
