@@ -17,6 +17,7 @@ describe('Addition Tests', function()
 
     actualResult.should.equal(expectedResult);
     expect(actualResult).to.equal(expectedResult);
+    assert.equal(actualResult, expectedResult, "{test failed}")
   });
 
   it('should return 3 when passed one and two', function()
